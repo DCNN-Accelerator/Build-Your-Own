@@ -1,6 +1,6 @@
 ################################################################
 # This is a generated script based on design: top
-#
+# 
 # Though there are limitations about the generated script,
 # the main purpose of this utility is to make learning
 # IP Integrator Tcl commands easier.

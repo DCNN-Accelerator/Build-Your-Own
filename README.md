@@ -23,3 +23,4 @@ Run: source top.tcl
 Open up the Vivado Project in folder dccn_proj
 Can run final_test.vhd for simulated results
 Can build bitstream to test on hardware
+ 
